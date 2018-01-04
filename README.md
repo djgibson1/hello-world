@@ -1,2 +1,3 @@
 # hello-world
-Test repository for storing ideas, resources, etc.
+Place to store ideas.
+I first discovered the terrior of rose in Bordeaux
